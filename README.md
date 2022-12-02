@@ -12,3 +12,4 @@
 - :rocket: Obsessed with self development
 - :snake: Lover of Python
 - :penguin: Prefers Linux/Unix based OS
+- :octocat: Looking to contribute to Open Source and the InfoSec Community! 

@@ -8,8 +8,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - :closed_lock_with_key: Senior Security Engineer @ FloQast
 - :satellite: Building Security Operations teams and functions
-- :books: Freshly OSCP Certified
+- :books: OSCP Certified
 - :rocket: Obsessed with self development
 - :snake: Lover of Python
-- :penguin: Prefers Linux/Unix based OS
 - :octocat: Looking to contribute to Open Source and the InfoSec Community! 
